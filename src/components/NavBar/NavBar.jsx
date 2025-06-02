@@ -5,7 +5,7 @@ import bell_icon from '../../assets/bell_icon.svg'
 import profile_img from '../../assets/profile_img.png'
 import caret_icon from '../../assets/caret_icon.svg'
 import { logOut } from '../../firebase';
-import './navbar.css'
+import './NavBar.css'
 
 const NavBar = () => {
   const navRef = useRef();
